@@ -1,0 +1,22 @@
+
+.link {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.isActive {
+	color: red;
+}
+
+.container {
+	-webkit-box-shadow: -1px 16px 17px 1px rgba(0, 144, 255, 0.2);
+	-moz-box-shadow: -1px 16px 17px 1px rgba(0, 144, 255, 0.2);
+	box-shadow: -1px 16px 17px 1px rgba(0, 144, 255, 0.2);
+	padding: 20px;
+	margin: 0 10px 20px 10px;
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
